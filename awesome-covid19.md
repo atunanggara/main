@@ -83,6 +83,7 @@ Your contributions are always welcome!
 * [Observable Coronavirus Visualizations](https://observablehq.com/collection/@observablehq/coronavirus) a collection of COVID19 visualizations
 * [COVID-19 Infographics](https://informationisbeautiful.net/visualizations/covid-19-coronavirus-infographic-datapack/), infographics you can use to inform others on COVID-19
 * [Next Strain](https://nextstrain.org/ncov)
+* [covid-19 dashboards](https://covid19dashboards.com/)
 
 ## Dashboards
 * [Johns Hopkins Dashboard](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6), most famous covid19 dashboard
@@ -90,7 +91,7 @@ Your contributions are always welcome!
 * [COVID-19 Statistics with Map](http://covidly.com)
 * [COVID19 Global Map & US](https://covid19.fyi) (US counties again soon)
 ## Mobile
-*
+* 
 ## Projects
 * [COVID19 OSS](https://github.com/covid19-oss)
 * [The COVID Tracking Project](https://covidtracking.com/)
